@@ -31,7 +31,7 @@
     "grommet": "^2.16.3",
     "lodash": "^4.17.21",
     "mobx": "5.15.0",
-    "mobx-react": "6.1.4",
+    "mobx-react": "6.3.1",
     "mobx-react-router": "4.0.7",
     "moment": "^2.24.0",
     "node-dijkstra": "^2.5.0",
